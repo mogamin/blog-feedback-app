@@ -1,0 +1,1 @@
+{"version":3,"file":"main.aa6d0a4e400c8af8b878.bundle.js","sources":["webpack:///./src/components/atoms/Wrapper/index.tsx"],"sourcesContent":["import React from 'react';\nimport styled from 'styled-components';\n\nconst Wrapper = styled.div`\n  display: flex;\n  flex-direction: column;\n`;\n\nexport default Wrapper;\n"],"mappings":"AAGA","sourceRoot":""}
